@@ -1,5 +1,11 @@
 .gif {
     width: 50%;
     height: auto;
-    
+
+}
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
